@@ -9,7 +9,7 @@ My journey in technology is shaped by a blend of technical expertise and a solid
 🎓 I hold a Bachelor's degree in Mathematics, which complements my technical skills, enhancing my problem-solving abilities and providing a unique perspective in my development work.
 
 ## Interests & Skills
-🌱 Passionate about coding and videogames. Always looking for new oportunities.
+🌱 Passionate about coding and videogames. Always looking for new opportunities.
 
 ## Languages & Tools
 🛠️ Proficient in HTML, CSS, TypeScript, Angular, Python, and SQL.
