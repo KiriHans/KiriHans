@@ -15,4 +15,7 @@ My journey in technology is shaped by a blend of technical expertise and a solid
 🛠️ Proficient in HTML, CSS, TypeScript, Angular, Python, and SQL.
 
 ## Find Me
-📫 Connect with me on LinkedIn at www.linkedin.com/in/stevenrojas09 to discover more about my professional journey and potential collaboration opportunities. Looking forward to connecting and contributing to impactful projects!
+📫 Connect with me on LinkedIn at www.linkedin.com/in/stevenrojas09 to discover more about my professional journey and potential collaboration opportunities. 
+
+
+
